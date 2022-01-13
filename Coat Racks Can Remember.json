@@ -1,0 +1,19 @@
+{
+  "title": "Coat Racks Can Remember",
+  "description": "A mystery comic series for the Murder on the October Express OCT. The OCT can be found here: https://discord.gg/6TYJavRQV5",
+  "artist": "CawCawMarmalade",
+  "author": "CawCawMarmalade",
+  "cover": "https://media.discordapp.net/attachments/854800551182860338/931228008407257158/coatrackscanremembertitle.jpg",
+  "chapters": {
+    "0": {
+      "title": "Prologue",
+      "volume": "0",
+      "last_updated": "1642091627",
+      "groups": {
+        "Prologue": [
+          "https://imgur.com/gallery/Rf9N6gw"
+        ]
+      }
+    }
+  }
+}
